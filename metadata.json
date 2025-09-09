@@ -1,0 +1,5 @@
+{
+  "name": "Text to 3D Model Generator",
+  "description": "An application that creates visually stunning 3D model renders from text descriptions using AI. Describe any object, and see a high-quality 3D representation generated in moments.",
+  "requestFramePermissions": []
+}
